@@ -13,7 +13,7 @@ var lyr_ListaProcure_0 = new ol.layer.Vector({
                 style: style_ListaProcure_0,
                 popuplayertitle: " ",
                 interactive: true,
-    title: 'Lista Procure<br />\
+    title: '<br />\
     <img src="styles/legend/ListaProcure_0_0.png" /> 1<br />\
     <img src="styles/legend/ListaProcure_0_1.png" /> 2<br />\
     <img src="styles/legend/ListaProcure_0_2.png" /> 3<br />\
