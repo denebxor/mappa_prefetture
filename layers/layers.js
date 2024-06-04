@@ -11,7 +11,7 @@ var lyr_ListaProcure_0 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_ListaProcure_0, 
                 style: style_ListaProcure_0,
-                popuplayertitle: "Lista Procure",
+                popuplayertitle: " ",
                 interactive: true,
     title: 'Lista Procure<br />\
     <img src="styles/legend/ListaProcure_0_0.png" /> 1<br />\
