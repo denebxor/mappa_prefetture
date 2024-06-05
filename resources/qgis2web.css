@@ -20,7 +20,7 @@ html, body {
 		
 .ol-popup {
     display: none;
-    position: absolute;
+    position: relative;
     padding: 0;
     margin: 0;
     background-color: white;
